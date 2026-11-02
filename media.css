@@ -1,0 +1,203 @@
+
+@media (max-width: 550px) {
+
+
+    .navbar {
+        flex-direction: column;
+        padding: 12px 10px;
+        gap: 12px;
+    }
+
+    .navbar ul {
+        gap: 12px;
+    }
+
+    .right-side a {
+        font-size: 13px;
+    }
+
+    .navbar img {
+        width: 25px;
+        height: 25px;
+    }
+
+
+    .product-section {
+        width: 100%;
+        padding: 15px;
+        margin: 130px auto 40px;
+        gap: 20px;
+    }
+
+    .product-image {
+        padding: 12px;
+    }
+
+    .product-image img {
+        height: 280px;
+    }
+
+    .discount {
+        font-size: 12px;
+    }
+
+    .product-info {
+        padding: 5px;
+        gap: 18px;
+    }
+
+    .product-info h1 {
+        font-size: 25px;
+    }
+
+    .product-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 7px;
+    }
+
+    .price {
+        flex-wrap: wrap;
+    }
+
+    .price strong {
+        font-size: 26px;
+    }
+
+    .price del {
+        font-size: 18px;
+    }
+
+    .description {
+        font-size: 17px;
+    }
+
+    .installment {
+        font-size: 15px;
+    }
+
+    .cart-button,
+    .wishlist-button {
+        font-size: 15px;
+        padding: 13px;
+    }
+
+
+    .page-two {
+        padding: 35px 15px;
+    }
+
+    .page-two h1 {
+        font-size: 27px;
+    }
+
+    .page-two p {
+        font-size: 15px;
+    }
+
+    .container {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .cards {
+        width: 100%;
+        min-height: auto;
+        height: auto;
+        padding: 22px;
+    }
+
+    .cards h3 {
+        font-size: 23px;
+    }
+
+    .cards p {
+        font-size: 16px;
+    }
+
+    .feature-img {
+        width: 40px;
+    }
+
+
+    .third-page h1 {
+        font-size: 28px;
+    }
+
+    .third-page p {
+        font-size: 16px;
+    }
+
+    .reviews-intro {
+        margin-bottom: 30px;
+    }
+
+    .rating-summary {
+        padding: 20px 15px;
+    }
+
+    .rating-summary h2 {
+        font-size: 45px;
+    }
+
+    .rating {
+        padding: 15px;
+        min-height: auto;
+    }
+
+    .rating-header {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .user-info {
+        gap: 10px;
+    }
+
+    .user-details h4 {
+        font-size: 15px;
+    }
+
+    .user-details p {
+        font-size: 13px;
+    }
+
+    .purchase-info {
+        align-items: flex-start;
+    }
+
+    .review-text {
+        font-size: 14px;
+        line-height: 1.6;
+        text-align: left;
+    }
+
+    .recommended {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+
+    .foot {
+        width: 100%;
+    }
+
+
+    .footer {
+        padding: 25px 20px;
+        border-radius: 20px;
+    }
+
+    .footer h3 {
+        font-size: 24px;
+    }
+
+    .footer p {
+        font-size: 15px;
+    }
+
+    .footer a {
+        font-size: 15px;
+        align-self: flex-start;
+    }
+}
+
